@@ -1,16 +1,25 @@
 # cSharp-Software-Engineer-Roadmap
-Roadmap for becoming a cSharp Software Engineer.
 
 
+> Roadmap for becoming a [cSharp Software Engineer](https://dotnet.microsoft.com/learn) in 2021:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
+
+## Disclaimer ❗
+
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. It would be best if you grew some understanding of why one tool would be better suited for some cases than the other, and remember hip and popular does not always mean best suited for the job
+
+## Give a Star! :star:
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 
-
-## Resources
+## Resources 📚
 
 1. Learn the prerequisites
 
-   - [C#](https://www.pluralsight.com/paths/csharp)
-   - [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5)
+   - [C#](https://dotnet.microsoft.com/learn/csharp)
+   - [.NET 5](https://dotnet.microsoft.com/learn/aspnet)
    - [Entity Framework](https://www.pluralsight.com/search?q=entity%20framework%20core)
    - [Dapper](https://github.com/StackExchange/Dapper)
    - [NHibernate](https://github.com/nhibernate/nhibernate-core)
@@ -21,7 +30,7 @@ Roadmap for becoming a cSharp Software Engineer.
 
    - Learn GIT, create a few repositories on GitHub, share your code with other people
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com)
+   - Don't be afraid of using Google, [Power Searching with Google](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf)
    - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
    - Read a few books about algorithms and data structures
 
