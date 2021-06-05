@@ -19,8 +19,10 @@ If you like or are using this project to learn or start your solution, please gi
 1. Learn the prerequisites
 
    - [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-   		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp)
-   		- [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
+   		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp) 
+   		- [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners) - Good For Beginners with no prior exprience.
+   		- [C# W3School](https://www.w3schools.com/cs/default.asp) - 
+   		- [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
    - [.NET 5](https://dotnet.microsoft.com/learn/aspnet)
    - [Entity Framework](https://www.pluralsight.com/search?q=entity%20framework%20core)
    - [Dapper](https://github.com/StackExchange/Dapper)
