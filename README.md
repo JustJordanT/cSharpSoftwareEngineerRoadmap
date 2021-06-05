@@ -41,6 +41,7 @@ If you like or are using this project to learn or start your solution, please gi
    		- [Fundamental Data Structures and Algorithms in C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
    		- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
    		- [C# Data Structures and Algorithms tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OM09NI47t8SyAag2o3P5C1)
+   		- [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 3. ASP.NET Core Basics
 
