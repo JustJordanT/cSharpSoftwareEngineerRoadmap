@@ -18,7 +18,9 @@ If you like or are using this project to learn or start your solution, please gi
 
 1. Learn the prerequisites
 
-   - [C#](https://dotnet.microsoft.com/learn/csharp)
+   - [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+   		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp)
+   		- [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners)
    - [.NET 5](https://dotnet.microsoft.com/learn/aspnet)
    - [Entity Framework](https://www.pluralsight.com/search?q=entity%20framework%20core)
    - [Dapper](https://github.com/StackExchange/Dapper)
@@ -28,11 +30,17 @@ If you like or are using this project to learn or start your solution, please gi
 
 2. General Development Skills
 
-   - Learn GIT, create a few repositories on GitHub, share your code with other people
-   - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+   - [Learn GIT](https://git-scm.com/book/en/v2), create a few repositories on GitHub, share your code with other people
+   		- [GIT Labs](https://learngitbranching.js.org/) 
+   - Know [HTTP(S) protocol, request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Don't be afraid of using Google, [Power Searching with Google](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf)
    - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
-   - Read a few books about algorithms and data structures
+   - Resources for Data Structures & Algorithms
+   		- [Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+   		- [C# Data Structures & Algorithms Q&A ](https://www.csharpstar.com/csharp-algorithms/)
+   		- [Fundamental Data Structures and Algorithms in C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
+   		- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
+   		- [C# Data Structures and Algorithms tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OM09NI47t8SyAag2o3P5C1)
 
 3. ASP.NET Core Basics
 
