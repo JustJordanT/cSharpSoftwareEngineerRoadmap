@@ -18,6 +18,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 1. Learn the prerequisites
 
+   - [.NET EcoSystem Overview](https://www.youtube.com/watch?v=bEfBfBQq7EE)
    - [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
    		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp) 
    		- [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners) - Good For Beginners with no prior exprience.
@@ -37,7 +38,7 @@ If you like or are using this project to learn or start your solution, please gi
    - Know [HTTP(S) protocol, request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Don't be afraid of using Google, [Power Searching with Google](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf)
    - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
-   - Resources for Data Structures & Algorithms
+   - Resources for [Data Structures](https://en.wikipedia.org/wiki/Data_structure) & [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
    		- [Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
    		- [C# Data Structures & Algorithms Q&A ](https://www.csharpstar.com/csharp-algorithms/)
    		- [Fundamental Data Structures and Algorithms in C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
