@@ -33,17 +33,23 @@ If you like or are using this project to learn or start your solution, please gi
    		- [SQL Server Complete Series](https://youtube.com/playlist?list=PL_c9BZzLwBRKC2PJwLFxc2y6cyXYYQzj3)
    		- [Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
    		- [SQL W3School](https://www.w3schools.com/sql/default.asp)
+   		- [Educational SQL resources](https://docs.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver15)
 
 2. General Development Skills
 
    - [Learn GIT](https://git-scm.com/book/en/v2), create a few repositories on GitHub, share your code with other people
-   		- [GIT Labs](https://learngitbranching.js.org/) 
+   		- [GIT Labs](https://learngitbranching.js.org/)
+   		- [Git 101 Basics By Scott Hanselman](https://youtu.be/WBg9mlpzEYU)
+   		- [Git Pull Requests explained By Scott Hanselman](https://youtu.be/Mfz8NQncwiQ)
+   		- [Git Rebase vs Merge explained](https://youtu.be/hae9zg0-sZY)
+   		- [Git Push](https://youtu.be/dgOpnebZkRo)
+   		- 
    - Know [HTTP(S) protocol, request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) (GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - Don't be afraid of using Google, [Power Searching with Google](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf)
    - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
    - Resources for [Data Structures](https://en.wikipedia.org/wiki/Data_structure) & [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
    		- [Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
-   		- [C# Data Structures & Algorithms Q&A ](https://www.csharpstar.com/csharp-algorithms/)
+   		- [C# Data Structures & Algorithms Q&A](https://www.csharpstar.com/csharp-algorithms/)
    		- [Fundamental Data Structures and Algorithms in C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
    		- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)
    		- [C# Data Structures and Algorithms tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OM09NI47t8SyAag2o3P5C1)
@@ -243,3 +249,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [NodaTime](https://github.com/nodatime/nodatime)
     - [GenFu](https://github.com/MisterJames/GenFu)
     - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+
+20. Misc Resources.
+    
+   - [Computer Stuff They Didn't Teach You By Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)
