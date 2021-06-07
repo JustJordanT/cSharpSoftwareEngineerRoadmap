@@ -30,6 +30,9 @@ If you like or are using this project to learn or start your solution, please gi
    - [NHibernate](https://github.com/nhibernate/nhibernate-core)
    - [ASP.NET Core](https://www.pluralsight.com/search?q=asp.net%20core)
    - SQL Fundamentals
+   		- [SQL Server Complete Series](https://youtube.com/playlist?list=PL_c9BZzLwBRKC2PJwLFxc2y6cyXYYQzj3)
+   		- [Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
+   		- [SQL W3School](https://www.w3schools.com/sql/default.asp)
 
 2. General Development Skills
 
