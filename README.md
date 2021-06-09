@@ -94,6 +94,7 @@ If you like or are using this project to learn or start your solution, please gi
       3. [MariaDB](https://mariadb.org)
       4. [MySQL](https://www.mysql.com)
    2. Cloud Databases
+      - [Azure SQL For Beginners Videos Series.](https://www.youtube.com/playlist?list=PLlrxD0HtieHi5c9-i_Dnxw9vxBY-TqaeN)
       - [CosmosDB](https://docs.microsoft.com/azure/cosmos-db)
       - [DynamoDB](https://aws.amazon.com/dynamodb)
    3. Search Engines
