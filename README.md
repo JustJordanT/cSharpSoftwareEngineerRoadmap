@@ -22,7 +22,7 @@ If you like or are using this project to learn or start your solution, please gi
    - [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
    		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp) 
    		- [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners) - Good For Beginners with no prior exprience.
-   		- [Head First C#](https://github.com/head-first-csharp/fourth-edition)
+   		- [Head First C#](https://github.com/head-first-csharp/fourth-edition) -  A Learner's Guide to Real-World Programming with C# and .NET Core (O'Reilly Media 2020)
    		- [C# W3School](https://www.w3schools.com/cs/default.asp)
    		- [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
    - [.NET 5](https://dotnet.microsoft.com/learn/aspnet)
