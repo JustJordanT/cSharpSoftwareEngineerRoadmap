@@ -235,6 +235,14 @@ If you like or are using this project to learn or start your solution, please gi
 17. Client-Side Libraries
     - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
+18. Clean Arcitecture
+    - [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
+    - [Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers](https://github.com/dotnet-architecture/eShopOnContainers)
+    - [This project contains a 10-tier microservices application](https://github.com/GoogleCloudPlatform/microservices-demo)
+    - [A containerized polyglot microservices consisting of services based on .NET Core, NodeJS and more running on service mesh (istio)](https://github.com/vietnam-devs/coolstore-microservices)
+    - [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
+    - [Clean Architecture Solution Template for Angular 8 and .NET Core 3](https://github.com/JasonGT/CleanArchitecture)
+
 18. Template Engines
 
    - [Razor](https://docs.microsoft.com/aspnet/core/mvc/views/razor)
