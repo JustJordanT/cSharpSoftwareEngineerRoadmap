@@ -20,8 +20,9 @@ If you like or are using this project to learn or start your solution, please gi
 
    - [.NET EcoSystem Overview](https://www.youtube.com/watch?v=bEfBfBQq7EE)
    - [A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-   		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp) 
    		- [C# Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners) - Good For Beginners with no prior exprience.
+   		- [C# Fundamentals](https://dotnet.microsoft.com/learn/csharp)
+   		- [Let's learn C#! - With Scott Hanselman](https://www.youtube.com/playlist?list=PL0M0zPgJ3HScx3yh2pTuUwJAWIQPAnL9D)
    		- [Head First C#](https://github.com/head-first-csharp/fourth-edition) -  A Learner's Guide to Real-World Programming with C# and .NET Core (O'Reilly Media 2020)
    		- [C# W3School](https://www.w3schools.com/cs/default.asp)
    		- [Object Oriented Programming](https://www.educative.io/blog/object-oriented-programming)
